@@ -39,7 +39,7 @@ function Home() {
         stignemo. Imamo da se vozimo ali ne previse...
       </p>
       <p className="text-center pb-2">
-        Sve je sredjeno , nema nista da brines,{" "}
+        Sve je sredjeno , nema nista da brines, <br />
         <span className="text-center">baba</span>
         <img src={baba1} alt="" />i <span className="text-center">"baba"</span>
         <img src={baba2} alt="" /> su upoznate i brinuce o njima.
